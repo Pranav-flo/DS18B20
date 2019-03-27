@@ -8,6 +8,6 @@ The files included here are for reference for the example demonstarted in our bl
  
   • We interface the DS18B20 temperature sensor with an ESP32
   
-  • We use ThinkSpeak to visualize and analyze live data from the ESP32.
+  • We use ThinkSpeak to visualize and analyze live data sent from ESP32.
   
   • Refer our blog for further insights: https://www.robocraze.com/index.php/blog/tutorial-ds18b20-waterproof-sensor-all-you-need-to-know.html
